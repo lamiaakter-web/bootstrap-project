@@ -1,0 +1,81 @@
+.theme-secondary{
+    background: white !important;
+    color: #777777 !important;
+}
+
+.nav-link {
+    color: #777777 !important;
+    font-size: 18px;
+    font-family: "poppins" , sans-serif !important;
+    font-weight: 400;
+    padding: 0 20px !important;
+}
+.slider_area{
+    margin-bottom: 80px ;
+
+}
+.slider_content{
+    height: 100% !important;
+    width: 100% !important;
+    background: #0000006c;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    text-align: center !important;
+
+}
+.carousel-caption {
+    position: absolute ;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.course_head{
+    width: 100% !important;
+}
+.course_head p{
+    width: 350px !important;
+}
+.area_course{
+    width: 100% !important;
+}
+.card_area img{
+    height: 400px !important;
+}
+.d-flex{
+    gap: 20px !important;
+}
+.d-flex p{
+    font-size: 20px !important;
+ 
+}
+.card-text p{
+    font-size: 40px;
+}
+.ready{
+    background-color: #289BDE !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+.p-5{
+    padding: 3rem !important;
+}
+.mt-5{
+    margin-top: 3rem !important;
+}
+.ready_area{
+    padding: 30px !important;
+}
+.footer{
+    background-color: black;
+    padding: 60px;
+    color: white;
+}
+
+
